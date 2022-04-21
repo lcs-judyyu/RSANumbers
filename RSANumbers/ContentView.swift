@@ -70,6 +70,7 @@ struct ContentView: View {
                 .font(.title3)
                 .multilineTextAlignment(.center)
                 .padding()
+                .padding(.bottom, 80)
             
             //            ForEach(lowerBound...upperBound) { i in
             //
